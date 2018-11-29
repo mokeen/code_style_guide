@@ -185,7 +185,7 @@
 
 ### 禁止使用
 
-  - 禁止使用 `arguments` / `eval` / `with`。禁止在生产中使用 `debugger`
+  - 禁止使用 `arguments` / `eval` / `with`。禁止在生产中使用 `debugger。
 
   - 禁止在非函数中使用 `return`。
 
