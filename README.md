@@ -3,4 +3,4 @@
 
 [JavaScript](JS_README.md)
 
-[CSS](JS_README.md)
+[CSS](CSS_README.md)
